@@ -8,9 +8,6 @@
 
 <script>
 export default {
-  props: {
-    todos: Array,
-  },
   data() {
     return {
       newTodoName: "",
